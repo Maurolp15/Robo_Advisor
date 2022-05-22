@@ -1,6 +1,4 @@
-# Unit 13
-
-## Robo Advisor
+# Robo Advisor
 
 My name is Oscar Lopez, a University of Miami FinTech Bootcamp student. 
 
